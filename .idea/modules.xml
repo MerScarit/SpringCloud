@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consul-consumer/consul-consumer.iml" filepath="$PROJECT_DIR$/consul-consumer/consul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-provider/consul-provider.iml" filepath="$PROJECT_DIR$/consul-provider/consul-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-provider/eureka-provider.iml" filepath="$PROJECT_DIR$/eureka-provider/eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server1/eureka-server1.iml" filepath="$PROJECT_DIR$/eureka-server1/eureka-server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server2/eureka-server2.iml" filepath="$PROJECT_DIR$/eureka-server2/eureka-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_parent.iml" filepath="$PROJECT_DIR$/spring_cloud_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper-consumer/zookeeper-consumer.iml" filepath="$PROJECT_DIR$/zookeeper-consumer/zookeeper-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper-provider/zookeeper-provider.iml" filepath="$PROJECT_DIR$/zookeeper-provider/zookeeper-provider.iml" />
+    </modules>
+  </component>
+</project>
